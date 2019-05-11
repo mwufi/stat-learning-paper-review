@@ -13,4 +13,4 @@
 }
 ```
 
-See [https://github.com/mwufi/stat-learning-paper-review/blob/master/Paper_Review.pdf]
+See [the review][https://github.com/mwufi/stat-learning-paper-review/blob/master/Paper_Review.pdf]
